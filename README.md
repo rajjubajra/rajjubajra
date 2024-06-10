@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @rajjubajra
-- 👀 I’m interested in Drupal and React js
-- 🌱 I’m developing React js theme with Tailwindcss...
-- 💞️ I’m looking to collaborate on  Drupal and React js progressive website
-- 📫 How to reach me rajjubajra@gmail.com
+# 👋 Hi, I’m Rajju Bajra
 
-<!---
-rajjubajra/rajjubajra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm passionate about web development, particularly with Drupal and Next.js. I enjoy creating dynamic, responsive, and user-friendly websites.
+
+## My Interests
+- 🌐 **Drupal & Next.js**: Building powerful and scalable web applications.
+- 🎨 **Tailwind CSS**: Developing sleek and modern UIs with Tailwind CSS.
+- 🚀 **Progressive Web Development**: Merging Drupal's robustness with Next.js's performance.
+
+## What I'm Working On
+Currently, I'm focusing on developing Next.js applications integrated with Tailwind CSS, aiming to enhance user experiences and streamline web development workflows.
+
+## Collaboration
+I'm open to collaborating on projects that involve:
+- Drupal and Next.js
+- Progressive web development
+- Front-end design with Tailwind CSS
+
+## Get in Touch
+Feel free to contact me via email at [rajjubajra@gmail.com](mailto:rajjubajra@gmail.com).
